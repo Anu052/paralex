@@ -1,0 +1,165 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.section-1 {
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-1 button {
+    padding: 20px 60px;
+    font-size: 2rem;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+
+.section-1::before {
+    content: "";
+    position: absolute;
+    background-image: url("https://images.unsplash.com/photo-1502104034360-73176bb1e92e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 1000px;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+}
+
+.section-2 {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #cbc6c6;
+    color: black;
+}
+
+.section-2 h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+.section-2 p {
+    text-align: center;
+}
+
+.section-3 {
+    width: 100%;
+    height: 500px;
+}
+.section-3::before {
+    content: "";
+    position: absolute;
+    background-image: url("https://th.bing.com/th/id/R.433a83744e917d1635b9e8975a957e16?rik=RqFyJ5QKCPt5qw&riu=http%3a%2f%2fwww.seekgif.com%2fthumb%2fblurry-christmas-ppt-background-8.jpg&ehk=qkXqNuw%2bzgAmjd3A7AKZxumhj01t%2bTayAeA6X8peY8o%3d&risl=&pid=ImgRaw");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 500px;
+    z-index: -1;
+}
+.section-4 {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #cbc6c6;
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
+
+.section-4 h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+.section-4 p {
+    text-align: center;
+}
+
+.section-5 {
+    width: 100%;
+    height: 500px;
+}
+.section-5::before {
+    content: "";
+    position: absolute;
+    background-image: url("https://th.bing.com/th/id/R.635090cdc07e5ce6466aced84352031b?rik=NLjO%2bGzPB82hhg&riu=http%3a%2f%2fpicalls.com%2fwp-content%2fuploads%2f2015%2f02%2fRed-Light-Blur-By-noki07.jpg&ehk=U6dQYI8MU085lHBCf0ALZKJSD9JMim1zOoi5%2bYyPGk4%3d&risl=&pid=ImgRaw");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+    z-index: -1;
+    left: 0px;
+}
+.section-6 {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+}
+
+.section-7 {
+    width: 100%;
+    height: 100vh;
+}
+.section-6 {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #cbc6c6;
+    border: 1px solid black;
+    background-color: rgb(32, 32, 32);
+}
+
+.section-6 h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+.section-6 p {
+    text-align: center;
+}
+
+.section-7 {
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-7 button {
+    padding: 20px 60px;
+    font-size: 2rem;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+
+.section-7::before {
+    content: "";
+    position: absolute;
+    background-image: url("https://images.unsplash.com/photo-1502104034360-73176bb1e92e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 1000px;
+    z-index: -1;
+}
