@@ -45,8 +45,9 @@
 }
 
 .section-2 h1 {
+    font-size:1.5rem;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 .section-2 p {
@@ -81,8 +82,9 @@
 }
 
 .section-4 h1 {
+     font-size:1.5rem;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 .section-4 p {
@@ -129,8 +131,9 @@
 }
 
 .section-6 h1 {
+     font-size:1.5rem;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 .section-6 p {
